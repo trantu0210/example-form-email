@@ -1,0 +1,8 @@
+
+.back a {
+    color: red;
+    font-style: italic;
+}
+.back a:hover{
+    color: blue;
+}
